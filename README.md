@@ -1,1 +1,1 @@
-# HolbertonSchool Shell
+Shell basics project
